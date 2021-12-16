@@ -9,4 +9,4 @@ it"s harder than I thought
 first branch 
 second commit
 
-non fast forward merge
+solving conflict example
